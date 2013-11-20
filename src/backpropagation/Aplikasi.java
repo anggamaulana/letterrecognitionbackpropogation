@@ -1439,6 +1439,11 @@ public class Aplikasi extends javax.swing.JFrame {
         hidden.add(new HiddenNode(0, "Hidden 18"));
         hidden.add(new HiddenNode(0, "Hidden 19"));
         hidden.add(new HiddenNode(0, "Hidden 20"));
+        hidden.add(new HiddenNode(0, "Hidden 21"));
+        hidden.add(new HiddenNode(0, "Hidden 22"));
+        hidden.add(new HiddenNode(0, "Hidden 23"));
+        hidden.add(new HiddenNode(0, "Hidden 24"));
+        hidden.add(new HiddenNode(0, "Hidden 25"));
 
         this.output = new ArrayList<OutputNode>();
         output.add(new OutputNode(0, "output 1"));
